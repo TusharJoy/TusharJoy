@@ -1,4 +1,4 @@
-### Hello Everyone 👋. I am Tushar Ghosh Joy, a Software Engineer.
+### Hello Everyone 👋. I am Tushar Ghosh Joy, a Software Engineer, looking for any remote opportunities.
 
 I am in the Software industry for 4+ years. I love to explore new technologies and stuffs.  
 I majorly write on Laravel, Nodejs and Vuejs.
