@@ -23,7 +23,7 @@ I am in the Software industry for 4+ years. I love to explore new technologies a
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1-luEUUCHCHEkGKjr6k62zoYJ1BfbvNXV](https://drive.google.com/drive/folders/1-luEUUCHCHEkGKjr6k62zoYJ1BfbvNXV)
 
-- ⚡ Fun fact **Code,CS,Sleep**
+- ⚡  **Code,CS,Sleep**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
