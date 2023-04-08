@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tushar Ghosh Joy</h1>
-<h3 align="center">A Full Stack Software Engineer from Dhaka, Bangladesh, looking for exciting opportunities.
-I am in the Software industry for 5+ years. I love to explore new technologies and stuffs. I majorly write on Laravel, Nodejs and Vuejs.
+<h3 align="center">A Full Stack Software Engineer from Dhaka, Bangladesh.
+I am in the Software industry for 5+ years. I love to explore new technologies and stuffs. I majorly write on Laravel, Node and Vue.
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharjoy&label=Profile%20views&color=0e75b6&style=flat" alt="tusharjoy" /> </p>
