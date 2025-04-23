@@ -50,13 +50,6 @@ I specialize in crafting scalable web applications, automating systems, and deli
 
 ---
 
-### 🔥 Contribution Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=TusharJoy&theme=highcontrast&date_format=M%20j" />
-</p>
-
----
-
 ### 📅 Weekly Development Breakdown
 <!--START_SECTION:waka-->
 ```text
