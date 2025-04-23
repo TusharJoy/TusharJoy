@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tushar Ghosh Joy</h1>
 <h3 align="center">A Full Stack Software Engineer from Dhaka, Bangladesh.
-I am in the Software industry for 6+ years. I love to explore new technologies and stuffs. I majorly write on Javascript.
+I am in the Software industry for 7+ years. I love to explore new technologies and stuffs. I majorly write on Javascript.
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharjoy&label=Profile%20views&color=0e75b6&style=flat" alt="tusharjoy" /> </p>
@@ -9,7 +9,7 @@ I am in the Software industry for 6+ years. I love to explore new technologies a
 
 <p align="left"> <a href="https://twitter.com/tushar7_joy" target="blank"><img src="https://img.shields.io/twitter/follow/tushar7_joy?logo=twitter&style=for-the-badge" alt="tushar7_joy" /></a> </p>
 
-- 🔭 I’m currently working on [Movies APP](https://github.com/TusharJoy/movie-app)
+- 🔭 I’m currently working on [Job Board](https://github.com/TusharJoy/job-board)
 
 - 🌱 I’m currently learning **Typescript, Nodejs, AWS, Google Cloud Platform**
 
