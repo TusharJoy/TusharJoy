@@ -1,42 +1,71 @@
-<h1 align="center">Hi 👋, I'm Tushar Ghosh Joy</h1>
-<h3 align="center">A Full Stack Software Engineer from Dhaka, Bangladesh.
-I am in the Software industry for 7+ years. I love to explore new technologies and stuffs. I majorly write on Javascript.
-</h3>
+# 👋 Hi, I'm Tushar Ghosh Joy
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharjoy&label=Profile%20views&color=0e75b6&style=flat" alt="tusharjoy" /> </p>
+🚀 **Full Stack Software Engineer** | Vue.js Enthusiast | Cloud & DevOps Advocate
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tusharjoy" alt="tusharjoy" /></a> </p>
+I specialize in crafting scalable web applications, automating systems, and delivering clean, efficient solutions across the full stack. With 7+ years of experience, I blend frontend elegance with robust backend architecture.
 
-<p align="left"> <a href="https://twitter.com/tushar7_joy" target="blank"><img src="https://img.shields.io/twitter/follow/tushar7_joy?logo=twitter&style=for-the-badge" alt="tushar7_joy" /></a> </p>
+---
 
-- 🔭 I’m currently working on [Job Board](https://github.com/TusharJoy/job-board)
+### 💡 About Me
+- 🌍 Based in **Bangladesh**, working remotely for global clients.
+- 👨‍💻 Currently at **Bitstrapped** | Building distributed systems & cloud solutions.
+- 🎨 Passionate about **Vue.js**, modern JavaScript, and intuitive UI/UX.
+- 🛠️ Advocate of **automation**, **DevOps**, and **clean code principles**.
+- 📦 Maintainer of [vue3-drag-drop](https://github.com/TusharJoy/vue3-drag-drop) — a growing NPM package.
+- 🌐 Explore my [**Interactive Portfolio**](https://tusharjoy.github.io/web/) *(built with Vue 3 & TailwindCSS)*.
+- 📄 [Download My Resume](https://tusharjoy.github.io/web/Tushar%20Ghosh%20Joy_resume.pdf)
 
-- 🌱 I’m currently learning **Typescript, Nodejs, AWS, Google Cloud Platform**
+---
 
-- 👯 I’m looking to collaborate on [TypeScript migration tools by Airbnb](https://github.com/airbnb/ts-migrate)
+### ⚒️ Tech Stack
+**Frontend:**  
+`Vue.js` `Nuxt` `JavaScript` `HTML` `CSS`  
 
-- 👨‍💻 All of my projects are available at [https://github.com/TusharJoy?tab=repositories](https://github.com/TusharJoy?tab=repositories)
+**Backend:**  
+`Node.js` `Express` `Laravel` `Python` `PostgreSQL` `MySQL`  
 
-- 💬 Ask me about **Vue, Php, Laravel, Javascript**
+**DevOps & Cloud:**  
+`AWS` `GCP` `Azure` `Docker` `Redis`  
 
-- 📫 How to reach me **tusharghoshjoy@gmail.com**
+**Other Tools:**  
+`Git` `Vim` `IntelliJ` `ClickUp` `Slack` `LaTeX`  
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1-luEUUCHCHEkGKjr6k62zoYJ1BfbvNXV](https://drive.google.com/drive/folders/1-luEUUCHCHEkGKjr6k62zoYJ1BfbvNXV)
+**Languages:**  
+`PHP` `C++` `GoLang` `SQL`  
 
-- ⚡  **Code, CS, Sleep**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/tushar7_joy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tushar7_joy" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tusharghoshjoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tusharghoshjoy" height="30" width="40" /></a>
-<a href="https://fb.com/ragner.joy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ragner.joy" height="30" width="40" /></a>
-</p>
+### 🌟 Featured Projects
+- 🔹 [**vue3-drag-drop**](https://github.com/TusharJoy/vue3-drag-drop) — NPM package for seamless drag & drop in Vue 3 apps *(100+ weekly downloads)*.
+- 🎬 [**Movie App**](https://github.com/TusharJoy/movie-app) — Discover movies using TheMovieDB API.
+- 🍽️ [**Food Delivery App**](https://shipping.marthasseniorgourmet.com/) — Frozen food subscription & delivery platform.
+- 🧬 [**DNA Sequence Visualization**](https://github.com/TusharJoy/dna-sequence-visualization) — Interactive D3.js tool for cancer research.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tusharjoy&show_icons=true&locale=en&layout=compact" alt="tusharjoy" /></p>
+### 🚀 Quick Links
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://tusharjoy.github.io/web/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/tusharghoshjoy) 
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/TusharJoy) 
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:tusharghoshjoy@gmail.com)  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tusharjoy&show_icons=true&locale=en" alt="tusharjoy" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tusharjoy&" alt="tusharjoy" /></p>
+### 📊 GitHub Stats
+![Tushar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TusharJoy&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TusharJoy&layout=compact)
+
+---
+
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=TusharJoy&theme=flat&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 🔥 Contribution Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=TusharJoy&theme=default)](https://git.io/streak-stats)
+
+---
+
+### ✨ Fun Fact
+> "Automation is my playground — from telecom bots to cloud pipelines, I love making systems work smarter."
